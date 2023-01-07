@@ -13,7 +13,6 @@
 
 #include "zoo.hpp"
 
-
 /****************************************************************
 * Default constructor for zoo object. Bank is set at 100,000. 
 * Animal containers set to 10. Arrays initialized to 10 objects.
